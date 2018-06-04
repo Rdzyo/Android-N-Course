@@ -1,0 +1,3 @@
+[submodule "FoodScanner"]
+	path = FoodScanner
+	url = https://github.com/Barteg/FoodScanner.git
